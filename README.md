@@ -1,2 +1,1 @@
-# kmeans
-Simple Kmeans from scratch
+Simple Kmeans in Python from scratch for pandas
